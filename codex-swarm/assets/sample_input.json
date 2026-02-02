@@ -1,0 +1,13 @@
+{
+  "jobs": [
+    {
+      "dir": "frontend",
+      "task": "Describe current UI and suggest one improvement."
+    },
+    {
+      "dir": "backend",
+      "task": "List public endpoints and note any missing docs."
+    }
+  ],
+  "max_parallel": 2
+}
