@@ -1,6 +1,6 @@
 # Codex Skills
 
-## SKILL 설치 (일반)
+## SKILL 설치
 SKILL은 `SKILL.md`가 포함된 폴더 전체를 Codex 스킬 디렉터리로 복사해서 설치합니다.
 
 ```bash
